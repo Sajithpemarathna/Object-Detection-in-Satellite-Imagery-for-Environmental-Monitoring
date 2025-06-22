@@ -2,6 +2,9 @@
 Developed a deep learning model using Faster R-CNN to detect and classify environmental objects such as animals, vehicles, and buildings in satellite imagery. Preprocessed real-world datasets using Python and trained the model on COCO and Pascal VOC images. 
 
 # Enhancing Environmental Monitoring through Object Detection in Satellite Imagery
+# Code implementation in Google Colab
+https://colab.research.google.com/drive/1dsXydoxsArHEw7XZ_w_dzWy3l4JS2MFp?usp=sharing
+
 
 ## 🌍 Project Overview
 This project explores the application of deep learning-based object detection models to improve environmental monitoring using satellite imagery. Implemented as part of the Computer Vision and AI module in the MSc Data Analytics program, the project focused on detecting animals, vehicles, and human-related objects in remote locations using high-resolution satellite data.
